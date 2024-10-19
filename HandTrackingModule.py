@@ -1,10 +1,3 @@
-"""
-Hand Tracking Module
-By: Murtaza Hassan
-Youtube: http://www.youtube.com/c/MurtazasWorkshopRoboticsandAI
-Website: https://www.computervision.zone
-"""
-
 import mediapipe as mp
 import cv2
 
