@@ -1,5 +1,8 @@
 # FaceTracking
 
+https://github.com/user-attachments/assets/7bc0b723-dc2a-461b-aaac-0eae696ec6f4
+
+
 ## Description
 
 **FaceTracking** est un projet Python qui utilise des techniques avancées de traitement d'image et de vision par ordinateur pour détecter et suivre les visages et les mains en temps réel. Ce projet est particulièrement utile pour les applications de réalité augmentée, les systèmes de sécurité, et les études comportementales.
